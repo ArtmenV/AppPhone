@@ -39,3 +39,5 @@ export class PhonesCatalogComponent extends BaseComponent {
     `
   }
 }
+
+//Hello world
